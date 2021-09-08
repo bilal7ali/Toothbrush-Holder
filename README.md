@@ -1,6 +1,6 @@
 # Toothbrush-Holder
 
-This is a custom-designed and 3D printed toothbrush holder with drainage holes to prevent mold growth. 
+This is a custom-designed and 3D printed toothbrush holder equipped with drainage holes and reduced flat planes to prevent standing water and mold growth. 
 
 ## Images
 
